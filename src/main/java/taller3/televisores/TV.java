@@ -2,7 +2,7 @@ package taller3.televisores;
 
 public class TV {
 	public static int numTV = 0;
-	private Marca marca;
+	public Marca marca;
 	private int canal;
 	private int precio;
 	private boolean estado;
